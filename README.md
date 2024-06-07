@@ -7,7 +7,7 @@
 因此經常發現 SQL 修改不完全或修改完後未復原的問題，測試環境和正式環境共用同一組程式碼。
 為突破這種窘境，提議拆分出測試環境／正式環境用的 SQL，在測試環境確認完畢再逐項對正式環境修改。
 
-![程式變革說明圖](https://github.com/SquZareZz/AbstractOverrideSample/blob/main/pictures/%E6%8A%BD%E8%B1%A1%E6%96%B9%E6%B3%95%E8%AA%AA%E6%98%8E%E5%9C%96.jpg)
+![程式變革說明圖](https://github.com/SquZareZz/AbstractOverrideSample/blob/main/pictures/%E7%A8%8B%E5%BC%8F%E8%AE%8A%E9%9D%A9%E8%AA%AA%E6%98%8E%E5%9C%96.jpg)
 
 ### 介紹
 
